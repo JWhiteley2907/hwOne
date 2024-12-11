@@ -1,0 +1,29 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+}
+{header
+    background-color: #B3B3B3;
+}
+nav {
+    background-color: aliceblue;
+}
+main { background-color: beige;
+    font-size: 75%;
+
+}
+footer {
+    background-color: #B3B3B3;
+}
+li {
+    display: block;
+    width: auto;
+}
+h1 {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+p {
+    line-height: normal;
+}
